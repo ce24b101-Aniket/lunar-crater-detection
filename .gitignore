@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+outputs/
+runs/
+data/
+*.tif
+*.tiff
+*.geotiff
+*.fits
+*.fit
